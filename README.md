@@ -1,73 +1,82 @@
-<h1 align="center">Hi 👋, I'm Osama Rafat</h1>
-<h3 align="center">AI & Machine Learning Enthusiast 🤖</h3>
+<div align="center">
+  <img src="https://builtin.com/sites/www.builtin.com/files/styles/ckeditor_optimize/public/inline-images/machine-learning-pillar-page-overview.jpeg" alt="Profile Banner" width="100%" />
+</div>
 
-<p align="center">
-🚀 Passionate about Artificial Intelligence & Data Science  
-</p>
+<div align="center">
+
+# Hi 👋, I'm osama-rafat
+
+### AI & Data science engineer
+
+</div>
+
+## 🚀 About Me
+
+Computer Science student with a strong passion for Artificial Intelligence and Machine Learning. I have a solid foundation in programming and data analysis, and I enjoy building intelligent systems that solve real-world problems. I am continuously learning and improving my skills in Data Science, Deep Learning, and software development. I am seeking opportunities where I can apply my knowledge, gain practical experience, and grow as an AI engineer 
+
+## 🎓 Education
+
+| Institution | Degree | Duration |
+|---|---|---|
+| Elshrouk Academy | Bachelor’s Degree | 2022-09 - 2026-07 |
+
+### Bachelor’s Degree in Computer Science
+*Elshrouk Academy*
+
+Completed multiple courses in Machine Learning and Artificial Intelligence
+Strong academic performance in core computer science subjects
+Built personal projects to strengthen practical skills in programming and AI
+Continuously learning and improving skills in Data Science and Deep Learning
+
+## 💼 Internships
+
+| Company | Position | Duration |
+|---|---|---|
+|  |  |  -  |
+
+###  at 
+
+## 📞 Contact & Links
+
+<div align="left">
+
+- 📫 How to reach me **osama.rafat17@gmail.com**
+
+</div>
+
+## 🌐 Connect with Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/osama-rafat)&nbsp;&nbsp;&nbsp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/https://www.linkedin.com/in/osama-rafaat-669159317?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+
+</div>
+
+## 🛠️ Skills & Technologies
+
+### 💻 AI/ML
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)&nbsp;&nbsp;&nbsp;![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=seaborn&logoColor=white)&nbsp;&nbsp;&nbsp;![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)&nbsp;&nbsp;&nbsp;![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)&nbsp;&nbsp;&nbsp;![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)&nbsp;&nbsp;&nbsp;![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+### 💻 Programming Languages
+
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)&nbsp;&nbsp;&nbsp;![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;&nbsp;&nbsp;![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+
+### 💻 Other
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-## 🧠 About Me
-- 🎓 Computer Science Student  
-- 🤖 Interested in AI & Machine Learning  
-- 📊 Currently learning Data Science  
-- 🔥 Goal: Become AI Engineer  
+<div align="center">
 
----
+### 🎯 "Code is like humor. When you have to explain it, it's bad." – Cory House
 
-## 🛠️ Tech Stack
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,git,github,vscode" />
-</p>
+**Thank you for visiting my profile! 😊**
 
----
+![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=brightgreen&style=flat-square&label=Profile+Views)
 
-## 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🔥 Streak Stats
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight" />
-</p>
-
----
-
-## 🚀 Current Focus
-- Machine Learning  
-- Deep Learning  
-- AI Projects  
-
----
-
-## 📫 Contact Me
-<p align="center">
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" /></a>
-</p>
-
----
-
-## ⚡ Fun Fact
-💥 I build intelligent systems and love solving real-world problems  
-
-## 🧠 Currently Learning
-- Deep Learning  
-- Neural Networks  
-- Computer Vision  
-
----
-
-## 📫 Connect With Me
-<p>
-<a href="https://linkedin.com/in/YOUR_LINK"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" /></a>
-</p>
-
----
+</div>
 
 ## ⚡ Fun Fact
 💥 I turn coffee ☕ into code 💻
