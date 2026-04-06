@@ -1,10 +1,8 @@
-<div align="center">
-  <img src="https://tse2.mm.bing.net/th/id/OIP.w8INQ47PRhclOJzGZ1DDGwHaFd?rs=1&pid=ImgDetMain&o=7&rm=3" alt="Profile Banner" width="100%" />
-</div>
+
 
 <div align="center">
 
-# Hi 👋, I'm osama-rafat
+# Hi 👋, I'm Osama Rafat
 
 ### AI & Data science engineer
 
