@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://builtin.com/sites/www.builtin.com/files/styles/ckeditor_optimize/public/inline-images/machine-learning-pillar-page-overview.jpeg" alt="Profile Banner" width="100%" />
+  <img src="https://tse2.mm.bing.net/th/id/OIP.w8INQ47PRhclOJzGZ1DDGwHaFd?rs=1&pid=ImgDetMain&o=7&rm=3" alt="Profile Banner" width="100%" />
 </div>
 
 <div align="center">
@@ -28,13 +28,6 @@ Strong academic performance in core computer science subjects
 Built personal projects to strengthen practical skills in programming and AI
 Continuously learning and improving skills in Data Science and Deep Learning
 
-## 💼 Internships
-
-| Company | Position | Duration |
-|---|---|---|
-|  |  |  -  |
-
-###  at 
 
 ## 📞 Contact & Links
 
@@ -72,6 +65,11 @@ Continuously learning and improving skills in Data Science and Deep Learning
 
 ### 🎯 "Code is like humor. When you have to explain it, it's bad." – Cory House
 
+**Thank you for visiting my profile! 😊**
+
+![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=brightgreen&style=flat-square&label=Profile+Views)
+
+</div>
 **Thank you for visiting my profile! 😊**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=brightgreen&style=flat-square&label=Profile+Views)
