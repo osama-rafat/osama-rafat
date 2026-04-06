@@ -1,18 +1,22 @@
-<h1 align="center">Hi 👋, I'm Osama</h1>
-<h3 align="center">AI & Data Science Enthusiast from Egypt 🇪🇬</h3>
+<h1 align="center">Hi 👋, I'm Osama Rafat</h1>
+<h3 align="center">AI & Machine Learning Enthusiast 🤖</h3>
+
+<p align="center">
+🚀 Passionate about Artificial Intelligence & Data Science  
+</p>
 
 ---
 
-## 🚀 About Me
+## 🧠 About Me
 - 🎓 Computer Science Student  
-- 🤖 Passionate about AI & Machine Learning  
-- 📊 Learning Data Science  
-- 💡 Love building real-world projects  
+- 🤖 Interested in AI & Machine Learning  
+- 📊 Currently learning Data Science  
+- 🔥 Goal: Become AI Engineer  
 
 ---
 
 ## 🛠️ Tech Stack
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=python,java,git,github,vscode" />
 </p>
 
@@ -32,6 +36,23 @@
 </p>
 
 ---
+
+## 🚀 Current Focus
+- Machine Learning  
+- Deep Learning  
+- AI Projects  
+
+---
+
+## 📫 Contact Me
+<p align="center">
+<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" /></a>
+</p>
+
+---
+
+## ⚡ Fun Fact
+💥 I build intelligent systems and love solving real-world problems  
 
 ## 🧠 Currently Learning
 - Deep Learning  
